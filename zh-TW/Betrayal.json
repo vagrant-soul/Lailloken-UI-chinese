@@ -1,0 +1,342 @@
+{
+  "aisling": {
+    "rewards": {
+      "fortification": [
+        "double-veiled\narmors && jewelry",
+        "trapped chest:\nboots"
+      ],
+      "intervention": [
+        "torment scarabs",
+        "torment scarab"
+      ],
+      "research": [
+        "beyond scarabs",
+        "timed crafting:\nboots"
+      ],
+      "transportation": [
+        "double-veiled\nweapons && jewelry",
+        "boots"
+      ]
+    }
+  },
+  "cameria": {
+    "rewards": {
+      "fortification": [
+        "harbinger orbs",
+        "trapped chest:\nrings"
+      ],
+      "intervention": [
+        "sulphite scarabs",
+        "sulphite scarabs"
+      ],
+      "research": [
+        "orbs of unmaking",
+        "timed crafting:\nring"
+      ],
+      "transportation": [
+        "timeworn uniques",
+        "ring"
+      ]
+    }
+  },
+  "elreon": {
+    "rewards": {
+      "fortification": [
+        "unique armors",
+        "trapped chest:\nshields"
+      ],
+      "intervention": [
+        "titanic scarabs",
+        "titanic scarab"
+      ],
+      "research": [
+        "unique jewelry",
+        "timed crafting:\nshield"
+      ],
+      "transportation": [
+        "unique weapons",
+        "shield"
+      ]
+    }
+  },
+  "gravicius": {
+    "rewards": {
+      "fortification": [
+        "random div cards",
+        "trapped chest:\nbody armors"
+      ],
+      "intervention": [
+        "divination scarabs",
+        "ritual scarabs"
+      ],
+      "research": [
+        "trade 1 div card\nfor a random one",
+        "timed crafting:\nbody armors"
+      ],
+      "transportation": [
+        "div card stack",
+        "body armor"
+      ]
+    }
+  },
+  "guff": {
+    "rewards": {
+      "fortification": [
+        "essence craft",
+        "trapped chest:\ngloves"
+      ],
+      "intervention": [
+        "incursion scarabs",
+        "timed crafting:\nweapons"
+      ],
+      "research": [
+        "annul/exalt craft",
+        "timed crafting:\ngloves"
+      ],
+      "transportation": [
+        "chaos craft",
+        "gloves"
+      ]
+    }
+  },
+  "haku": {
+    "rewards": {
+      "fortification": [
+        "unique strongbox",
+        "mixed items"
+      ],
+      "intervention": [
+        "ambush scarabs",
+        "ambush scarab"
+      ],
+      "research": [
+        "quality rares",
+        "anarchy scarabs"
+      ],
+      "transportation": [
+        "rare items",
+        "higher-rarity items"
+      ]
+    }
+  },
+  "hillock": {
+    "rewards": {
+      "fortification": [
+        "trapped chest:\nscarabs",
+        "trapped chest:\nbelts"
+      ],
+      "intervention": [
+        "abyss scarabs",
+        "abyss scarab"
+      ],
+      "research": [
+        "anarchy scarabs",
+        "timed crafting:\nbelts"
+      ],
+      "transportation": [
+        "essence scarabs",
+        "belt"
+      ]
+    }
+  },
+  "it": {
+    "rewards": {
+      "fortification": [
+        "breach maps",
+        "trapped chest:\njewels"
+      ],
+      "intervention": [
+        "breach scarabs",
+        "breach scarab"
+      ],
+      "research": [
+        "map-device mods\nfor breachstones",
+        "timed crafting:\njewels"
+      ],
+      "transportation": [
+        "breach splinters",
+        "jewel"
+      ]
+    }
+  },
+  "janus": {
+    "rewards": {
+      "fortification": [
+        "domination scarabs",
+        "quality currency"
+      ],
+      "intervention": [
+        "expedition scarabs",
+        "expedition scarab"
+      ],
+      "research": [
+        "expedition currency",
+        "essence scarabs"
+      ],
+      "transportation": [
+        "quality currency",
+        "basic currency"
+      ]
+    }
+  },
+  "jorgin": {
+    "rewards": {
+      "fortification": [
+        "bestiary rares",
+        "trapped chest:\namulets"
+      ],
+      "intervention": [
+        "bestiary scarabs",
+        "bestiary scarabs"
+      ],
+      "research": [
+        "ritual scarabs",
+        "timed crafting:\namulet"
+      ],
+      "transportation": [
+        "random talismans",
+        "amulet"
+      ]
+    }
+  },
+  "korell": {
+    "rewards": {
+      "fortification": [
+        "map fragments",
+        "trapped chest:\nhelmets"
+      ],
+      "intervention": [
+        "influencing scarabs",
+        "elder scarab"
+      ],
+      "research": [
+        "random fossils",
+        "timed crafting\nhelmets"
+      ],
+      "transportation": [
+        "random essences",
+        "helmet"
+      ]
+    }
+  },
+  "leo": {
+    "rewards": {
+      "fortification": [
+        "random currency",
+        "trapped chest:\nflasks"
+      ],
+      "intervention": [
+        "ultimatum scrabs",
+        "ultimatum scarabs"
+      ],
+      "research": [
+        "trapped chest: item",
+        "harvest scarabs"
+      ],
+      "transportation": [
+        "catalysts",
+        "flask"
+      ]
+    }
+  },
+  "riker": {
+    "rewards": {
+      "fortification": [
+        "trapped chest: unique",
+        "trapped chest:\nquivers"
+      ],
+      "intervention": [
+        "blight scarabs",
+        "blight scarab"
+      ],
+      "research": [
+        "trapped chest: oil, catalyst,\nsplinter, essence, fossil",
+        "fractured item"
+      ],
+      "transportation": [
+        "trapped chest: currency",
+        "quiver"
+      ]
+    }
+  },
+  "rin": {
+    "rewards": {
+      "fortification": [
+        "rare maps",
+        "trapped chest:\nmaps"
+      ],
+      "intervention": [
+        "cartography\nscarabs",
+        "cartography\nscarabs"
+      ],
+      "research": [
+        "unique maps",
+        "beyond scarabs"
+      ],
+      "transportation": [
+        "normal maps",
+        "map"
+      ]
+    }
+  },
+  "tora": {
+    "rewards": {
+      "fortification": [
+        "quality gems\nt4: 21-23%",
+        "trapped chest:\ngems"
+      ],
+      "intervention": [
+        "harbinger scarabs",
+        "harbinger scarab"
+      ],
+      "research": [
+        "gem exp (mil):\n20 / 70 / 200 / 2x 200",
+        "domination scarabs"
+      ],
+      "transportation": [
+        "trapped chest: gem",
+        "skill/support gems"
+      ]
+    }
+  },
+  "vagan": {
+    "rewards": {
+      "fortification": [
+        "legion chests",
+        "trapped chest:\nweapons"
+      ],
+      "intervention": [
+        "legion scarabs",
+        "legion scarab"
+      ],
+      "research": [
+        "incubators",
+        "timed crafting:\nweapon"
+      ],
+      "transportation": [
+        "legion splinters",
+        "weapon"
+      ]
+    }
+  },
+  "vorici": {
+    "rewards": {
+      "fortification": [
+        "socket currency",
+        "apply jeweller's:\n10 / 15 / 20 / 30"
+      ],
+      "intervention": [
+        "delirium scarabs",
+        "shaper scarab"
+      ],
+      "research": [
+        "harvest scarabs",
+        "apply fusings:\n10 / 15 / 20 / 30"
+      ],
+      "transportation": [
+        "apply 50: chromes /\njeweller's / fusings",
+        "apply chromatics:\n10 / 15 / 20 / 30"
+      ]
+    }
+  }
+}
