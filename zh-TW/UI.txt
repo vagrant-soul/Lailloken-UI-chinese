@@ -65,7 +65,7 @@
 		ms_leveling tracker		=	"行动追踪"
 		ms_mapping tracker		=	"地图跟踪"
 		ms_map-info			=	"地图信息"
-		ms_minor qol tools		=	"其他小工具"
+		ms_minor qol tools		=	"其他小挂件"
 		ms_sanctum			=	"sanctum planner"
 		ms_screen-checks		=	"屏幕检查"
 		ms_search-strings		=	"搜索字符串"
@@ -97,7 +97,7 @@
 		global_ui			=	"ui 设置:"
 		global_font			=	"字号:"
 		global_button			=	"按钮尺寸:"
-		global_enable			=	"enable"
+		global_enable			=	"开启"
 		global_reset			=	"重置"
 		global_color			=	"颜色"
 		global_color			=	"颜色:"
@@ -167,8 +167,8 @@
 		global_settings			=	"settings"
 		global_regex			=	"copy regex"
 		global_clipboard		=	"copied to clipboard"
-		global_start			=	"start"
-		global_cancel			=	"cancel"
+		global_start			=	"开始"
+		global_cancel			=	"取消"
 		global_downloading		=	"downloading..."
 		global_search			=	"search:"
 		global_toggle			=	"toggle"
@@ -861,10 +861,10 @@
 ;#####################################################
 
 ;## these strings are displayed/required in the "minor qol tools" section of the settings menu
-		m_qol_alarm			=	"alarm/timer widget:"
-		m_qol_notepad			=	"notepad:"
-		m_qol_widget			=	"widget opacity:"
-		m_qol_widgetcolor		=	"default widget colors:"
+		m_qol_alarm			=	"闹钟/计时器挂件:"
+		m_qol_notepad			=	"便签:"
+		m_qol_widget			=	"挂件透明度:"
+		m_qol_widgetcolor		=	"默认挂件颜色:"
 		m_qol_lab			=	"lab overlay:"
 
 
@@ -896,9 +896,9 @@
 ;#####################################################
 
 ;## these strings are displayed/required in the "search-strings" section of the settings menu
-		m_search_usecases		=	"use-cases currently set up:"
+		m_search_usecases		=	"当前设置的用例:"
 		m_search_hideout lilly		=	"hideout lilly"					;## as in the Lilly who is in your hideout (she has a different vendor window)
-		m_search_add			=	"add use-case:"
+		m_search_add			=	"添加用例:"
 
 
 

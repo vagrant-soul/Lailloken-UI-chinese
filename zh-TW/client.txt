@@ -261,13 +261,13 @@
 		items_evasion			=	"Evasion Rating:"
 		items_energy			=	"Energy Shield:"
 		items_ward			=	"Ward:"
-		items_aps			=	"Attacks per Second:"
-		items_quality			=	"Quality:"
-		items_phys_dmg			=	"Physical Damage:"
-		;## items_ele_dmg			=	"Elemental Damage:"
+		items_aps			=	"每秒攻擊次數:"
+		items_quality			=	"品質:"
+		items_phys_dmg			=	"物理傷害:"
+		;## items_ele_dmg			=	"元素傷害:"
 		items_dmg			=	"# Damage:"
 		items_chaos_dmg			=	"Chaos Damage:"
-		items_ele_dmg			=	"Elemental Damage:"					;## PoE1 only, ele-dmg is displayed differently
+		items_ele_dmg			=	"元素傷害:"					;## PoE1 only, ele-dmg is displayed differently
 		items_map_waystonechance	=	"Waystone Drop Chance:"					;## PoE2 only (whole block)
 
 
@@ -329,14 +329,14 @@
 		items_requirements		=	"需求:"
 		items_level			=	"等級:"
 		items_str			=	"力量:"			;## for some reason, unidentified items show full attribute-strings, while ID'd ones show abbreviations
-		items_str			=	"Str:"
+		items_str			=	"力量:"
 		items_dex			=	"敏捷:"
-		items_dex			=	"Dex:"
+		items_dex			=	"敏捷:"
 		items_int			=	"智慧:"
-		items_int			=	"Int:"
+		items_int			=	"智慧:"
 
 
-		items_rarity			=	"稀有度: "			;## important: every string in the following block has to match the one in the "Rarity: XYZ" line in the clipboard-info
+		items_rarity			=	"稀有度:"			;## important: every string in the following block has to match the one in the "Rarity: XYZ" line in the clipboard-info
 		items_rare			=	"稀有"				;## do not mix these strings with those from the "Item Class: XYZ" line (class and rarity are sometimes similar but not 100% the same)
 		items_unique			=	"傳奇"			;## PoE1 and PoE2
 		items_normal			=	"普通"			;## PoE1 and PoE2
