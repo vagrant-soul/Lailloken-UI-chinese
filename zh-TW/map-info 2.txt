@@ -90,9 +90,9 @@ type	=	area
 text	=	rare chests: +%
 ID	=	011
 
-[# increased Magic Pack Size]
+[增加 # 魔法怪物群大小]
 type	=	monsters
-text	=	magic pack size: +%
+text	=	魔法怪物群大小: +%
 ID	=	012
 
 [Rare Monsters have # additional Modifier]
@@ -190,9 +190,9 @@ type	=	monsters
 text	=	crit/multi: +%
 ID	=	031
 
-[# more Monster Life]
+[# 更多怪物生命]
 type	=	monsters
-text	=	more life: %
+text	=	更多生命: %
 ID	=	032
 
 [# Monster Elemental Resistances]
@@ -245,9 +245,9 @@ type	=	monsters
 text	=	extra chaos dmg: +%
 ID	=	042
 
-[Monsters have # increased Stun Buildup]
+[怪物的暈眩累積增加 #]
 type	=	monsters
-text	=	inc stun: +%
+text	=	暈眩累積: +%
 ID	=	043
 
 [Monsters have # increased Freeze Buildup|Monsters have # increased Ignite Chance|Monsters have # increased Shock Chance]
@@ -290,9 +290,9 @@ type	=	area
 text	=	chilled ground
 ID	=	051
 
-[Area has patches of Shocked Ground]
+[區域內有數道感電地面]
 type	=	area
-text	=	shocked ground
+text	=	感電地面
 ID	=	052
 
 [Monster Damage Penetrates # Elemental Resistances]

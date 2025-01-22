@@ -149,33 +149,33 @@
 		global_width			=	"宽"
 		global_height			=	"高"
 		global_gap			=	"gap"
-		global_pattern			=	"pattern"	;## as in color pattern
-		global_regular			=	"regular"	;## as in default
+		global_pattern			=	"模式"	;## as in color pattern
+		global_regular			=	"常规"	;## as in default
 		global_setup			=	"setup"
 		global_variance			=	"variance (0-255)"
-		global_hotkey			=	"hotkey:"
-		global_panelsize		=	"panel-size:"
-		global_uisize			=	"ui size:"
-		global_auto			=	"auto"
+		global_hotkey			=	"快捷键:"
+		global_panelsize		=	"面板尺寸:"
+		global_uisize			=	"ui大小:"
+		global_auto			=	"自动"
 		global_price			=	"price"
-		global_all			=	"all"
+		global_all			=	"全部"
 		global_confirm			=	"confirm"
 		global_mouse			=	"l#m#r"		;## left, middle, right mouse-button
 		global_coordinates		=	"坐标"
-		global_time			=	"time:"
-		global_refresh			=	"refresh"
-		global_settings			=	"settings"
+		global_time			=	"时间:"
+		global_refresh			=	"刷新"
+		global_settings			=	"设置"
 		global_regex			=	"copy regex"
-		global_clipboard		=	"copied to clipboard"
+		global_clipboard		=	"复制到剪切板"
 		global_start			=	"开始"
 		global_cancel			=	"取消"
-		global_downloading		=	"downloading..."
-		global_search			=	"search:"
-		global_toggle			=	"toggle"
-		global_hide			=	"hide"
-		global_revert			=	"revert"
-		global_apply			=	"apply"
-		global_apply			=	"apply changes"
+		global_downloading		=	"加载中..."
+		global_search			=	"查找:"
+		global_toggle			=	"切换"
+		global_hide			=	"隐藏"
+		global_revert			=	"恢复默认"
+		global_apply			=	"应用"
+		global_apply			=	"应用更改"
 
 		mechanic_bestiary		=	"bestiary"
 		mechanic_betrayal		=	"betrayal"
@@ -816,24 +816,24 @@
 
 
 ;#####################################################
-;## settings menu: map-tracker
+;## settings menu: map-tracker+
 ;#####################################################
 
 ;## these strings are displayed/required in the "map-tracker" section of the settings menu
-		m_maptracker_enable		=	"enable the map-tracker feature"
-		m_maptracker_hide		=	"hide the panel when the tracker is paused"
+		m_maptracker_enable		=	"启用地图跟踪功能"
+		m_maptracker_hide		=	"暂停跟踪器时隐藏面板"
 		m_maptracker_loot		=	"loot"
-		m_maptracker_kills		=	"kills"
+		m_maptracker_kills		=	"击杀数"
 		m_maptracker_mapinfo		=	"map-info data"					;## option to include data from the map-info feature
-		m_maptracker_notes		=	"notes"						;## option to add notes to map runs
+		m_maptracker_notes		=	"注释"						;## option to add notes to map runs
 		m_maptracker_sidearea		=	"side-areas"
-		m_maptracker_rename		=	"tag & rename boss maps"			;## adds a "boss:"-tag to logged map-runs
-		m_maptracker_character		=	"character/build info"
+		m_maptracker_rename		=	"标签&重命名boss maps"			;## adds a "boss:"-tag to logged map-runs
+		m_maptracker_character		=	"角色信息"
 		m_maptracker_content		=	"track atlas mechanics"
-		m_maptracker_dialogue		=	"–> dialogue tracking:"				;## tracking is done via in-game dialogue in the chat-box
-		m_maptracker_screen		=	"–> screen tracking:"				;## tracking is done via screen-reading
-		m_maptracker_portal		=	"reminder when using portal scrolls"		;## shows a reminder-tooltip when activating a portal scroll
-		m_maptracker_portal		=	"portal scroll hotkey:"
+		m_maptracker_dialogue		=	"–> 通过聊天框中的对话跟踪:"				;## tracking is done via in-game dialogue in the chat-box
+		m_maptracker_screen		=	"–> 屏幕追踪:"				;## tracking is done via screen-reading
+		m_maptracker_portal		=	"使用传送门时的提示"		;## shows a reminder-tooltip when activating a portal scroll
+		m_maptracker_portal		=	"传送门快捷键:"
 
 
 
@@ -842,17 +842,17 @@
 ;#####################################################
 
 ;## these strings are displayed/required in the "map-info" section of the settings menu
-		m_mapinfo_enable		=	"enable the map-info panel"
-		m_mapinfo_shift			=	"shift-clicking activates the panel"
-		m_mapinfo_tab			=	"show panel while holding tab"
-		m_mapinfo_textcolors		=	"text-colors:"
+		m_mapinfo_enable		=	"启用地图信息面板"
+		m_mapinfo_shift			=	"单击shift键激活面板"
+		m_mapinfo_tab			=	"按住table时显示面板"
+		m_mapinfo_textcolors		=	"字体颜色:"
 		m_mapinfo_header		=	"header"					;## as in line at the top of a section/paragraph
 		m_mapinfo_logbook		=	"logbook-colors:"
-		m_mapinfo_modsettings		=	"map-mod settings:"
+		m_mapinfo_modsettings		=	"map-mod 设置:"
 		m_mapinfo_pinned		=	"pinned mods:"
-		m_mapinfo_modsearch		=	"mod search:"
-		m_mapinfo_roll_highlight	=	"highlight map rolls"
-		m_mapinfo_reset			=	"reset tiers"
+		m_mapinfo_modsearch		=	"mod 查找:"
+		m_mapinfo_roll_highlight	=	"高亮地图 rolls"
+		m_mapinfo_reset			=	"重置层级"
 
 
 
