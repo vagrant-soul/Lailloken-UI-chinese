@@ -133,7 +133,7 @@
 		maps_stats			=	"x#q#r#p#m#s#c"							;## PoE1 only, x = multiplication-sign, see above for the rest
 
 
-		maps_waystones			=	"換界石:"			;## PoE2 only, replaces <Waystone Drop Chance>
+		maps_waystones			=	"換界石掉落機率:"			;## PoE2 only, replaces <Waystone Drop Chance>
 
 
 
