@@ -1,74 +1,74 @@
 {
   "g1_1": {
-    "name": "the riverbank",
+    "name": "河岸",
     "act": "1"
   },
   "g1_town": {
-    "name": "clearfell encampment",
+    "name": "皆伐營地",
     "act": "1"
   },
   "g1_2": {
-    "name": "clearfell",
+    "name": "皆伐",
     "act": "1"
   },
   "g1_3": {
-    "name": "mud burrow",
+    "name": "泥沼陋居",
     "act": "1"
   },
   "g1_4": {
-    "name": "the grelwood",
+    "name": "葛瑞爾林",
     "act": "1"
   },
   "g1_5": {
-    "name": "the red vale",
+    "name": "赤谷",
     "act": "1"
   },
   "g1_6": {
-    "name": "the grim tangle",
+    "name": "纏縛陰林",
     "act": "1"
   },
   "g1_7": {
-    "name": "cemetery of the eternals",
+    "name": "不朽帝國之墓",
     "act": "1"
   },
   "g1_8": {
-    "name": "mausoleum of the praetor",
+    "name": "政務官陵墓",
     "act": "1"
   },
   "g1_9": {
-    "name": "tomb of the consort",
+    "name": "配偶的墓室",
     "act": "1"
   },
   "g1_10": {
-    "name": "root hollow",
+    "name": "盤根魔域",
     "act": "1"
   },
   "g1_11": {
-    "name": "hunting grounds",
+    "name": "獵場",
     "act": "1"
   },
   "g1_12": {
-    "name": "freythorn",
+    "name": "弗雷索恩",
     "act": "1"
   },
   "g1_13_1": {
-    "name": "ogham farmlands",
+    "name": "奧格姆農地",
     "act": "1"
   },
   "g1_13_2": {
-    "name": "ogham village",
+    "name": "奧格姆村",
     "act": "1"
   },
   "g1_14": {
-    "name": "the manor ramparts",
+    "name": "宅第壁壘",
     "act": "1"
   },
   "g1_15": {
-    "name": "ogham manor",
+    "name": "奧格姆宅第",
     "act": "1"
   },
   "g2_1": {
-    "name": "vastiri outskirts",
+    "name": "瓦斯提里郊區",
     "act": "2"
   },
   "g2_town": {

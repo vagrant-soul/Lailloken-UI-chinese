@@ -349,27 +349,27 @@
 		lvltracker_treeascendancy	=	"slot empty"
 
 
-		lvltracker_format_enter		=	"enter"						;## PoE2 only (whole block), use this and the next two in combination with "areaidXYZ" to place a page divider
-		lvltracker_format_waypoint	=	"(img:waypoint) to"				;## these 2 lines stand for "portal/waypoint-travel to XYZ": don't change the part in parentheses, it will be replaced by icons
-		lvltracker_format_portal	=	"(img:portal) to"
-		lvltracker_format_kill		=	"kill"						;## the string that follows this word will automatically be highlighted as a unique boss
+		lvltracker_format_enter		=	"进入"						;## PoE2 only (whole block), use this and the next two in combination with "areaidXYZ" to place a page divider
+		lvltracker_format_waypoint	=	"(img:waypoint) 回到"				;## these 2 lines stand for "portal/waypoint-travel to XYZ": don't change the part in parentheses, it will be replaced by icons
+		lvltracker_format_portal	=	"(img:portal) 回到"
+		lvltracker_format_kill		=	"击杀"						;## the string that follows this word will automatically be highlighted as a unique boss
 		lvltracker_format_act		=	"a#c"						;## abbreviation, e.g. "act 1 cruel": used when the guide leads to a location in a different act (e.g. "enter a1c | clearfell encampment")
 		lvltracker_format_epilogue	=	"epilogue"
 
 
-		lvltracker_editor		=	"guide editor"					;## PoE2 only (whole block)
+		lvltracker_editor		=	"编辑指南"					;## PoE2 only (whole block)
 		lvltracker_editor_slot		=	"slot"						;## the act-tracker has 3 slots to save guides into
-		lvltracker_editor_acts		=	"acts:"
-		lvltracker_editor_save		=	"save changes"
-		lvltracker_editor_export	=	"export guide"
-		lvltracker_editor_areas		=	"area-names (click to paste):"
-		lvltracker_editor_icons		=	"icons (click to paste):"
-		lvltracker_editor_highlight	=	"highlight selected text:"
-		lvltracker_editor_load		=	"load default guide"
+		lvltracker_editor_acts		=	"章节:"
+		lvltracker_editor_save		=	"保存改变"
+		lvltracker_editor_export	=	"导出指南"
+		lvltracker_editor_areas		=	"区域名称 (点击插入):"
+		lvltracker_editor_icons		=	"图片 (点击插入):"
+		lvltracker_editor_highlight	=	"高亮选择的文字:"
+		lvltracker_editor_load		=	"加载默认指南"
 		lvltracker_editor_blocked	=	"(blocked)"					;## there are two different "Halani Gates" areas: the first time you visit, they're blocked off
-		lvltracker_editor_hint		=	"hint / more info"
-		lvltracker_editor_quest-name	=	"quest-name"
-		lvltracker_editor_quest-item	=	"quest-item"
+		lvltracker_editor_hint		=	"提示/更多信息"
+		lvltracker_editor_quest-name	=	"任务名称"
+		lvltracker_editor_quest-item	=	"任务物品"
 
 
 ;#####################################################
